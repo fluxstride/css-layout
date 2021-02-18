@@ -57,6 +57,12 @@ footer{
     justify-content: center;
     height: 100px;
     background-color: #000000;
-    color: #ffffff;
+    color: #ffffff7e;
     font-size: .8em;
+    text-align: center;
+    line-height: 1.4em;
+}
+#fluxstride{
+    color: #ffffff;
+    font-size: 1.2em !important;
 }
