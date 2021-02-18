@@ -50,3 +50,13 @@ p{
     text-align: center;
     color: rgba(0, 0, 0, 0.6);
 }
+footer{
+    margin-top: 7em;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    height: 100px;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: .8em;
+}
